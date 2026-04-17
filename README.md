@@ -1,6 +1,6 @@
 ## Hey There <img src="https://raw.githubusercontent.com/ShookEagle/ShookEagle/main/blob-hype.gif" width="30">
 
-I'm Reece DeAlmeida, or ShookEagle if you know me online, I'm a High School Junior, from Houston, Texas, studying Aerospace Engineering and CS. I play and mod a lot of Counter-Strike. I also like to work on random Arduino and Pi projects in my free time.
+I'm Reece DeAlmeida, or ShookEagle if you know me online, I'm a High School Senior, from Houston, Texas, planning to study Aerospace Engineering at Mississippi Statu University. I play and mod a lot of Counter-Strike. I also like to work on random Arduino and Pi projects in my free time.
 
 ### Technologies
 <p>
