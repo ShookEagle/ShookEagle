@@ -19,7 +19,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=ShookEagle&locale=en&mode=weekly&theme=calm&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ShookEagle/ShookEagle/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=calm&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 </div>
 
 ###
